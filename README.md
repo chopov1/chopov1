@@ -6,7 +6,7 @@
 
 
 * *__ChristmasSong__* - Christmassong is an application that prints out a song that is deffenitly not a christmas song to the console. ![Screenshot (65)](https://user-images.githubusercontent.com/76492881/126075388-8140baf7-434c-4a9f-a2a0-997cdf0bc1cc.png)
-This application gave me a chance to test and expand my knowledge of for and foreach loops.
+Building this application gave me a chance to test and expand my knowledge of for and foreach loops.
 
 
 
