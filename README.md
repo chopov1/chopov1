@@ -1,8 +1,8 @@
 ### Here are a few projects I completed over the the summer semester of 2021 through my programming 101 class.
 
-*__1.Game2__*
-      2.Game2 was my most ambitious project throughout this class. I created a simulation type game in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
-      3.I also implemented sound into this project which is an interesting contrast when it is a console application, but I think it helps bring life to the ASCII art characters and items and makes the world feel more alive. I hope to expand on this project in the future.![Screenshot (63)](https://user-images.githubusercontent.com/76492881/126075129-5f550205-c846-4b29-822d-d3473bf12f2a.png)
+#### *__Game2__*
+      Game2 was my most ambitious project throughout this class. I created a simulation type game in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
+      I also implemented sound into this project which is an interesting contrast when it is a console application, but I think it helps bring life to the ASCII art characters and items and makes the world feel more alive. I hope to expand on this project in the future.![Screenshot (63)](https://user-images.githubusercontent.com/76492881/126075129-5f550205-c846-4b29-822d-d3473bf12f2a.png)
 
 
 
