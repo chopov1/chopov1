@@ -11,6 +11,9 @@ Building this application gave me a chance to test and expand my knowledge of fo
 * *__GuessingGame__* - GuessingGame is an application that gives you a quiz and will tell you if you are right or wrong.![Screenshot (66)](https://user-images.githubusercontent.com/76492881/126075597-9f154969-fadb-40c3-af4f-1d48bf6b9e7d.png)
 Whats cool about this application though was it helped introduce me to using RNG to randomize the order of things besides just numbers like randomizing which array indexes are drawn to the console first so the list is not the same everytime.
 
+* *__DrawShapes__* * - DrawShapes will do what the title implies, draw a shape of your choosing to console. It also is customizable as the user can choose the height, width, color, and what symbol the shape is drawn with.![Screenshot (67)](https://user-images.githubusercontent.com/76492881/126075751-05adcc73-3d0a-4fef-b163-3cc05db333df.png)
+Building this application helped practice the idea of making code more modular as all of the shape drawing variables were stored outside the method and changed depending on what the user inputted.
+
 
 
 <!--
