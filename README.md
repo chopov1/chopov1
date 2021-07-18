@@ -1,5 +1,4 @@
-### Hi there 👋
-Here are a few projects I completed over the the summer semester of 2021 through my programming 101 class.
+### Here are a few projects I completed over the the summer semester of 2021 through my programming 101 class.
 
 *__1.Game2__*
       2.Game2 was my most ambitious project throughout this class. I created a simulation type game in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
