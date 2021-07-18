@@ -1,4 +1,5 @@
-### Here are a few projects I completed over the the summer semester of 2021 through my programming 101 class.
+### Here are a few projects I completed over the the summer semester of 2021. If I sent you here for a GameJam portfolio please check out the video at the top as it showcases my abilities when working with audio for games. If you are my teacher please ignore the video at the top as it is probobly not school appropriate haha.
+
 
 
 
