@@ -8,7 +8,8 @@
 * *__ChristmasSong__* - Christmassong is an application that prints out a song that is deffenitly not a christmas song to the console. ![Screenshot (65)](https://user-images.githubusercontent.com/76492881/126075388-8140baf7-434c-4a9f-a2a0-997cdf0bc1cc.png)
 Building this application gave me a chance to test and expand my knowledge of for and foreach loops.
 
-
+* *__GuessingGame__* - GuessingGame is an application that gives you a quiz and will tell you if you are right or wrong.![Screenshot (66)](https://user-images.githubusercontent.com/76492881/126075597-9f154969-fadb-40c3-af4f-1d48bf6b9e7d.png)
+Whats cool about this application though was it helped introduce me to using RNG to randomize the order of things besides just numbers like randomizing which array indexes are drawn to the console first so the list is not the same everytime.
 
 
 
