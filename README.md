@@ -7,6 +7,13 @@ https://user-images.githubusercontent.com/76492881/126080702-41be9edc-44b8-44c0-
 
 
 
+* *__8bit Breadboard Computer__* - This video shows a simple program running on an 8bit computer I put together following Ben Eater's tutorial series on youtube. This project took me the course of about a month to complete during the summer of my freshman year of college. The computer can add, subtract, retrieve and store data. The video shows me running a simple program in which the computer adds 2 and 1 giving us 3, takes that result and adds that to 2 giving us 5, then takes that result and subtracts 2 from it giving us 3. You can see the final result output to the display in Decimal. 
+https://user-images.githubusercontent.com/76492881/127425236-5e1f4f70-f99d-427d-9e92-3cb75ebae0a2.MOV
+
+
+
+
+
 
 * *__Game2__*                 -
       Game2 was my most ambitious project throughout this class. I created a simulation type game in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
