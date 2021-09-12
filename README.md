@@ -1,5 +1,5 @@
-This is a link to my Itch.io page where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod wwise, or unity's built in sound engine. 
-https://itch.io/profile/chopov1
+https://itch.io/profile/chopov1 *_This is a link to my Itch.io page_* where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod wwise, or unity's built in sound engine. 
+
 
 
 ### The first video is a game I programmed, as well as created and implemented the sound assets for in Unreal Engine 4. 
