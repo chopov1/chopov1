@@ -1,5 +1,4 @@
-### If I sent you here for a GameJam portfolio please check out the video at the top as it showcases my abilities when working with audio for games. If you are my teacher please ignore the video at the top as it is probobly not school appropriate haha.
-
+### The first video is a game I programmed, as well as created and implemented the sound assets for in Unreal Engine 4. 
 
 
 
