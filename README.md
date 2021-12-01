@@ -5,7 +5,7 @@ https://itch.io/profile/chopov1 *_This is a link to my Itch.io page_* where you 
 
 
 
-### The first video is a game I programmed, as well as created and implemented the sound assets for in Unreal Engine 4. 
+### The first video is a game I programmed, as well as created and implemented the sound assets for using wwise and Unreal Engine 4. 
 
 
 
