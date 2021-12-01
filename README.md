@@ -9,6 +9,12 @@ https://itch.io/profile/chopov1 *_This is a link to my Itch.io page_* where you 
 https://user-images.githubusercontent.com/76492881/126080702-41be9edc-44b8-44c0-9c95-841fbb051813.mp4
 
 
+### This second video is a Sound-Redesign of some CyberPunk gameplay I am currently working on. All audio recorded and created by me.
+
+
+
+https://user-images.githubusercontent.com/76492881/144199889-3d3a9d53-ddd6-45d1-bb33-87dcefe51f9d.mp4
+
 
 * *__8bit Breadboard Computer__* - This video shows a simple program running on an 8bit computer I put together following Ben Eater's tutorial series on youtube. This passion project took me the course of about a month to complete during the summer of my freshman year of college and taught me alot about the hardware side of programming. It also required me to put my critical thinking and problem solving skills to the test, in order to troubleshoot when things went wrong. The computer can add, subtract, retrieve and store data. The video shows me running a simple program in which the computer adds 2 and 1 giving us 3, takes that result and adds that to 2 giving us 5, then takes that result and subtracts 2 from it giving us 3. You can see the final result output to the display in Decimal. 
 
