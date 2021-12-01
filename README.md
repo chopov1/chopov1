@@ -1,3 +1,6 @@
+
+###Welcome to Mack Pearson's Portfolio! (Also known as chopov1 over the internet)
+
 https://itch.io/profile/chopov1 *_This is a link to my Itch.io page_* where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod wwise, or unity's built in sound engine. 
 
 
