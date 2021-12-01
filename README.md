@@ -2,8 +2,7 @@
 <strong><font>Welcome to Mack Pearson's Portfolio! (Also known as chopov1 over the internet)
 I am currently a student at Columbia College studying programming as an interactive art. This page is just a collection of things I have or am currently working on.
 
-I enjoy anything within the realms of sound design & composition, as well as  game design and development.
-
+      !!Please make sure to click the sound icon in the bottom right of the videos to hear sound as it is muted by default!!
 https://itch.io/profile/chopov1 *_This is a link to my Itch.io page_* where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod, wwise, or unity and or unreal's built in sound engine. 
 
 
