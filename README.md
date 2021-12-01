@@ -1,6 +1,6 @@
 
-<strong>Welcome to Mack Pearson's Portfolio! (Also known as chopov1 over the internet)
-I am currently a student at Columbia College studying programming as an interactive art.
+<strong><font>Welcome to Mack Pearson's Portfolio! (Also known as chopov1 over the internet)
+I am currently a student at Columbia College studying programming as an interactive art. This page is just a collection of things I have or am currently working on.
 
 I enjoy anything within the realms of sound design & composition, as well as  game design and development.
 
