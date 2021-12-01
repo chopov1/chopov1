@@ -3,7 +3,7 @@
 >I am currently a student at Columbia College studying programming as an interactive art. This page is just a collection of things I have or am currently working on.
 
       !!Please make sure to click the sound icon in the bottom right of the videos to hear sound as it is muted by default!!
-[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod, wwise, unity and or unreal's built in sound engine. 
+>[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod, wwise, unity and or unreal's built in sound engine. 
 
 
 
