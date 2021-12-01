@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/76492881/127426142-79d31793-3904-4bc5-
 
 
 * *__Game2__*                 -
-      Game2 was my most ambitious project throughout this class. I created a simulation type game in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
+      Game2 is a simulation game I created in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
       I also implemented sound into this project which is an interesting contrast as it is a console application, but I think it helps bring life to the ASCII art characters and items and makes the world feel more alive. I hope to expand on this project in the future.![Screenshot (63)](https://user-images.githubusercontent.com/76492881/126075129-5f550205-c846-4b29-822d-d3473bf12f2a.png)
 
 * *__GuessingGame__* - GuessingGame is an application that gives you a quiz and will tell you if you are right or wrong.![Screenshot (66)](https://user-images.githubusercontent.com/76492881/126075597-9f154969-fadb-40c3-af4f-1d48bf6b9e7d.png)
