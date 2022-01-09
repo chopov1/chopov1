@@ -1,24 +1,18 @@
 
 **Welcome to Mack Pearson's Portfolio! (Also known as chopov1 over the internet)**
->I am currently a student at Columbia College studying programming as an interactive art. This page is just a collection of things I have or am currently working on.
+>I am currently a student at Columbia College studying programming as an interactive art. This page is a collection of things I have or am currently working on.
 
       !!Please make sure to click the sound icon in the bottom right of the videos to hear sound as it is muted by default!!
 >[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made for game jams. Typically I handle programming in c# as well as audio asset creation and implementation using ableton, fmod, wwise, unity and or unreal's built in sound engine. 
 
 
 
-### The first video is a game I programmed, as well as created and implemented the sound assets for using wwise and Unreal Engine 4. 
+### This is my Game Audio Demo Reel. The second clip is a game I am currently working on by myself in Unreal Engine 4.
 
 
-
-https://user-images.githubusercontent.com/76492881/126080702-41be9edc-44b8-44c0-9c95-841fbb051813.mp4
-
-
-### This second video is a Sound-Redesign of some CyberPunk gameplay I am currently working on. All audio recorded and created by me.
+https://user-images.githubusercontent.com/76492881/148670369-91813a2d-eb0d-4dd3-ae5f-fe88d506d091.mp4
 
 
-
-https://user-images.githubusercontent.com/76492881/144199889-3d3a9d53-ddd6-45d1-bb33-87dcefe51f9d.mp4
 
 
 * *__8bit Breadboard Computer__* - This video shows a simple program running on an 8bit computer I put together following Ben Eater's tutorial series on youtube. This passion project took me the course of about a month to complete during the summer of my freshman year of college and taught me alot about the hardware side of programming. It also required me to put my critical thinking and problem solving skills to the test, in order to troubleshoot when things went wrong. The computer can add, subtract, retrieve and store data. The video shows me running a simple program in which the computer adds 2 and 1 giving us 3, takes that result and adds that to 2 giving us 5, then takes that result and subtracts 2 from it giving us 3. You can see the final result output to the display in Decimal. 
