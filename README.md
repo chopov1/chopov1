@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/76492881/127426142-79d31793-3904-4bc5-
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/76492881/149441017-a7b593c0-7e25-4aad-a07d-6408bb8805ce.png)
 
-* *__A 2 second wav file containing data for a sine wave in right and left channels__* *
+* *__A 2 second wav file containing data for a sine wave in right and left channels__* 
 
 https://user-images.githubusercontent.com/76492881/149441596-3f71a48d-3e85-4066-9db1-7f810bd22e7e.mp4
 
