@@ -26,6 +26,12 @@ https://user-images.githubusercontent.com/76492881/151866811-cf4d9921-7a6f-48ee-
 
 https://user-images.githubusercontent.com/76492881/127426142-79d31793-3904-4bc5-929a-9d7e95bcbb11.mp4
 
+* *__Music System Prototype__*
+
+
+
+https://user-images.githubusercontent.com/76492881/188791049-c3603550-058f-438c-a7a4-6ad7ff0c0cdd.mp4
+
 
 
 * *__Wave File Generator__*  - This is a screenshot of a project I am currently working on in c++ with vscode. As of now it creates a new wave file, and writes data into the file. The algorithm that it uses to write data depends on the wave form the user enters. I hope to add a lot more wave forms and if anyone has any good sources on how to uncompress and read data from a wav file please reach out to me. I would love to expand this application to filtering existing files as well. 
