@@ -9,7 +9,7 @@ A link to some of my [Music](https://unitedmasters.com/m/61e7223186f5484a4f4903b
 
       !!Please make sure to click the speaker icon in the bottom right of the videos to hear sound as it is muted by default!!
 ### Game Audio Demo Reel
-The second clip is a game I am currently working on by myself in Unreal Engine 4.
+* The second clip is a game I am currently working on by myself in Unreal Engine 4.
 
 
 
