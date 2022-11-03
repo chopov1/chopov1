@@ -44,18 +44,6 @@ https://user-images.githubusercontent.com/76492881/149441596-3f71a48d-3e85-4066-
 
 
 
-* *__Game2__*                 -
-      Game2 is a simulation game I created in c# where you play as a merchant selling potions to townsfolk. ![Screenshot (64)](https://user-images.githubusercontent.com/76492881/126075050-2ec8abc6-b5c9-4271-b529-21585ebc9b3d.png)
-      I also implemented sound into this project which is an interesting contrast as it is a console application, but I think it helps bring life to the ASCII art characters and items and makes the world feel more alive. I hope to expand on this project in the future.![Screenshot (63)](https://user-images.githubusercontent.com/76492881/126075129-5f550205-c846-4b29-822d-d3473bf12f2a.png)
-
-* *__GuessingGame__* - GuessingGame is an application that gives you a quiz and will tell you if you are right or wrong.![Screenshot (66)](https://user-images.githubusercontent.com/76492881/126075597-9f154969-fadb-40c3-af4f-1d48bf6b9e7d.png)
-Whats cool about this application though was it helped introduce me to using RNG to randomize the order of things besides just numbers like randomizing which array indexes are drawn to the console first so the list is not the same everytime.
-
-* *__DrawShapes__* * - DrawShapes will do what the title implies, draw a shape of your choosing to console. It also is customizable as the user can choose the height, width, color, and what symbol the shape is drawn with.![Screenshot (67)](https://user-images.githubusercontent.com/76492881/126075751-05adcc73-3d0a-4fef-b163-3cc05db333df.png)
-Building this application helped practice the idea of making code more modular as all of the shape drawing variables were stored outside the method and changed depending on what the user inputted.
-
-
-
 <!--
 **chopov1/chopov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
