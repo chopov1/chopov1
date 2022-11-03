@@ -1,5 +1,5 @@
 
-**Welcome to Mack Pearson-Muggli's Portfolio! (Also known as chopov1 over the internet)**
+# **Welcome to Mack Pearson-Muggli's Portfolio! (Also known as chopov1 over the internet)**
 >I am currently a student at Columbia College studying programming as an interactive art. This page is a collection of things I have or am currently working on.
 
 
