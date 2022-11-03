@@ -38,7 +38,8 @@ https://user-images.githubusercontent.com/76492881/188791049-c3603550-058f-438c-
 
 
 
-* *__Wave File Generator__*  - This is a screenshot of a project I am currently working on in c++ with vscode. As of now it creates a new wave file, and writes data into the file. The algorithm that it uses to write data depends on the wave form the user enters. I hope to add a lot more wave forms and if anyone has any good sources on how to uncompress and read data from a wav file please reach out to me. I would love to expand this application to filtering existing files as well. 
+### *__Wave File Generator__*  
+- This is a screenshot of a project I am currently working on in c++ with vscode. As of now it creates a new wave file, and writes data into the file. The algorithm that it uses to write data depends on the wave form the user enters. I hope to add a lot more wave forms and if anyone has any good sources on how to uncompress and read data from a wav file please reach out to me. I would love to expand this application to filtering existing files as well. 
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/76492881/149441017-a7b593c0-7e25-4aad-a07d-6408bb8805ce.png)
 
