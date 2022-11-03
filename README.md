@@ -29,7 +29,8 @@ https://user-images.githubusercontent.com/76492881/151866811-cf4d9921-7a6f-48ee-
 
 https://user-images.githubusercontent.com/76492881/127426142-79d31793-3904-4bc5-929a-9d7e95bcbb11.mp4
 
-* *__Music System Prototype__*
+### *__Music System Prototype__*
+* Created during an internship at Hidden Path Entertainment
 
 
 
