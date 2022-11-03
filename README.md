@@ -22,7 +22,8 @@ https://user-images.githubusercontent.com/76492881/151866811-cf4d9921-7a6f-48ee-
 
 
 
-* *__8bit Breadboard Computer__* - This video shows a simple program running on an 8bit computer I put together following Ben Eater's tutorial series on youtube. This passion project took me the course of about a month to complete during the summer of my freshman year of college and taught me alot about the hardware side of programming. It also required me to put my critical thinking and problem solving skills to the test, in order to troubleshoot when things went wrong. The computer can add, subtract, retrieve and store data. The video shows me running a simple program in which the computer adds 2 and 1 giving us 3, takes that result and adds that to 2 giving us 5, then takes that result and subtracts 2 from it giving us 3. You can see the final result output to the display in Decimal. 
+### *__8bit Breadboard Computer__* 
+- This video shows a simple program running on an 8bit computer I put together following Ben Eater's tutorial series on youtube. This passion project took me the course of about a month to complete during the summer of my freshman year of college and taught me alot about the hardware side of programming. It also required me to put my critical thinking and problem solving skills to the test, in order to troubleshoot when things went wrong. The computer can add, subtract, retrieve and store data. The video shows me running a simple program in which the computer adds 2 and 1 giving us 3, takes that result and adds that to 2 giving us 5, then takes that result and subtracts 2 from it giving us 3. You can see the final result output to the display in Decimal. 
 
 
 https://user-images.githubusercontent.com/76492881/127426142-79d31793-3904-4bc5-929a-9d7e95bcbb11.mp4
