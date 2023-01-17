@@ -5,7 +5,7 @@
 
 >[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made for game jams. Typically I handle programming in c# & c++ as well as audio asset creation and implementation using ableton, fmod, wwise, unity and/or unreal's built in sound engine. 
 
->My Resume[MackPearsonMuggliResume2022.pdf](https://github.com/chopov1/chopov1/files/10439811/MackPearsonMuggliResume2022.pdf)
+>[My Resume](https://github.com/chopov1/chopov1/files/10439811/MackPearsonMuggliResume2022.pdf)
 
 >A link to some of my [Music](https://unitedmasters.com/m/61e7223186f5484a4f4903b2)
 
