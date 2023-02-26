@@ -44,6 +44,9 @@ https://user-images.githubusercontent.com/76492881/188791049-c3603550-058f-438c-
 
 ![Screenshot (317)](https://user-images.githubusercontent.com/76492881/221397144-6608a3eb-1afe-4a8a-b4a5-0bf8c09c7532.png)
 
+## *__Tutorials for students I tutor at Columbia College Chicago__* 
+https://www.youtube.com/watch?v=9sfoH_FxkTA
+
 ## *__Demonstration Of Basic Data Structures And Algorithms__* 
 
 https://github.com/chopov1/AlgorithmsFA22
