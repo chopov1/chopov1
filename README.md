@@ -7,6 +7,8 @@
 
 >[My Resume](https://github.com/chopov1/chopov1/files/10439811/MackPearsonMuggliResume2022.pdf)
 
+>[LinkdIn](https://www.linkedin.com/in/mack-pearson-muggli-9b607b212/)
+
 >A link to some of my [Music](https://unitedmasters.com/m/61e7223186f5484a4f4903b2)
 
 ## Game Audio Demo Reel
