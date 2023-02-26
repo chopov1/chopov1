@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=9sfoH_FxkTA
 https://github.com/chopov1/AlgorithmsFA22
 
 ## *__Wave File Generator__*  
-- This is a screenshot of a project I am currently working on in c++ with vscode. As of now it creates a new wave file, and writes data into the file. The algorithm that it uses to write data depends on the wave form the user enters. I hope to add a lot more wave forms and if anyone has any good sources on how to uncompress and read data from a wav file please reach out to me. I would love to expand this application to filtering existing files as well. 
+- This is a screenshot of a project I am currently working on in c++ with vscode. As of now it creates a new wave file, and writes data into the file. The algorithm that it uses to write data depends on the wave form the user enters. I would love to expand this application to filtering existing files as well. I use a similar program to read in wav file data to an audio buffer, in order to check if player input is on beat in my project VaporGrid.
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/76492881/149441017-a7b593c0-7e25-4aad-a07d-6408bb8805ce.png)
 
