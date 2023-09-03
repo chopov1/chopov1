@@ -21,7 +21,7 @@ https://github.com/IAMColumbia/gp2portfoliogame-chopov1/assets/76492881/64bfb474
 
 
 
-## __Music System Prototype__
+## Music System Prototype
 * Created during an internship at Hidden Path Entertainment
 
 
