@@ -21,7 +21,10 @@ https://user-images.githubusercontent.com/76492881/151866811-cf4d9921-7a6f-48ee-
 
 
 
+# test
 
+
+https://github.com/IAMColumbia/gp2portfoliogame-chopov1/assets/76492881/64bfb474-d253-4fb9-a227-6db7c603dc06
 
 
 
