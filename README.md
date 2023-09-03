@@ -3,7 +3,7 @@
 >I am currently a student at Columbia College studying game programming and audio for games. This page is a collection of things I have or am currently working on.
 
 
->[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made. Typically I handle programming in c# & c++ as well as audio asset creation and implementation using ableton, fmod, wwise, unity and/or unreal's built in sound engine. 
+>[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made. Typically I handle programming in c# & c++ as well as audio asset creation and implementation using fmod, wwise, unity and/or unreal's built in sound engine. 
 
 >[My Resume](https://github.com/chopov1/chopov1/files/10439811/MackPearsonMuggliResume2022.pdf)
 
@@ -21,7 +21,7 @@ https://github.com/IAMColumbia/gp2portfoliogame-chopov1/assets/76492881/64bfb474
 
 
 
-## *__Music System Prototype__*
+## __Music System Prototype__
 * Created during an internship at Hidden Path Entertainment
 
 
