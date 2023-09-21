@@ -12,7 +12,7 @@
 >A link to some of my [Music](https://unitedmasters.com/m/61e7223186f5484a4f4903b2)
 
 ## Game Audio Demo Reel
-* Make sure to __unclick__ the __mute__ button in the bottom right of the video, it is muted by default.
+* Make sure to __UNCLICK__ the __MUTE__ button in the bottom right of the video, it is muted by default.
 * The second clip is a game I am currently working on by myself in Unreal Engine 4.
 
 
