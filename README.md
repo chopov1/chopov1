@@ -2,6 +2,7 @@
 # **Welcome to Mack Pearson-Muggli's Portfolio! (AKA chopov1)**
 >I am currently a student at Columbia College studying game programming and audio for games. This page is a collection of things I have or am currently working on.
 
+>[My Portfolio Website](https://mpearson4416.wixsite.com/mackpearsonmugglipor)
 
 >[My Itch.io Page](https://itch.io/profile/chopov1) is where you can play some of the games I have made. Typically I handle programming in c# & c++ as well as audio asset creation and implementation using fmod, wwise, unity and/or unreal's built in sound engine. 
 
